@@ -1,0 +1,12 @@
+{
+  "compilerOptions" : {
+    "target" : "es6",
+    "module" : "commonjs",
+    "sourceMap" : true,
+    "outDir" : "C:\\Users\\j.ilic\\Documents\\documents\\practice\\aws-sam\\sam-app\\hello-world\\aws-toolkit-ts-output",
+    "rootDir" : ".",
+    "sourceRoot" : "C:\\Users\\j.ilic\\Documents\\documents\\practice\\aws-sam\\sam-app\\hello-world",
+    "typeRoots" : [ "C:\\Users\\j.ilic\\Documents\\documents\\practice\\aws-sam\\sam-app\\hello-world\\node_modules\\@types" ],
+    "types" : [ "node" ]
+  }
+}
